@@ -1,0 +1,1 @@
+bool existe(char chute);

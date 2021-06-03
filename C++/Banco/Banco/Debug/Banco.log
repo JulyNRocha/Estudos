@@ -1,5 +1,0 @@
-﻿  Banco.cpp
-  ContaCorrente.cpp
-C:\DevJu\Banco\Banco\ContaCorrente.cpp(10,13): warning C4305: 'return': truncamento de 'double' para 'float'
-  Gerando Código...
-  Banco.vcxproj -> C:\DevJu\Banco\Debug\Banco.exe
